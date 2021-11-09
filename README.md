@@ -1,5 +1,5 @@
-# Maki Frontend
+# Maki NFT Marketplace
 
-This project contains the main features of the Maki application.
+This project contains NFT marketplace of the Maki application.
 
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
